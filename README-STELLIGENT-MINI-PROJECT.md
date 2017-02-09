@@ -13,11 +13,6 @@
 
 
 
-
-
-
-
-
 Stelligent Mini-Prjenct Requirements
 ====================================
 
@@ -61,7 +56,13 @@ Building and running the web server
 * Documentation for running the web server
     * [Stelligent Mini-Project](https://github.com/thinkedg/skc-stel-proj-code/blob/master/README.md)
 	
-	
+
+Setting up base Ubuntu EC2 to run Docker
+----------------------------------------
+* Documentation for installing Docker
+	* [dependences setup](https://github.com/thinkedg/skc-docker-setup/blob/master/README.md)
+
+
 Building an AWS EC2 to run the web server
 -----------------------------------------
 
@@ -72,7 +73,7 @@ Building an AWS EC2 to run the web server
 		* select or create a ssh key
 		* will need to ssh in to ec2 and install python
 			* `apt install  python-minimal`
-    * TO-DO
+    
 	
 	
 
