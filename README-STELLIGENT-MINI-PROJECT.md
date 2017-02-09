@@ -63,8 +63,8 @@ Setting up base Ubuntu EC2 to run Docker
 	* [dependences setup](https://github.com/thinkedg/skc-docker-setup/blob/master/README.md)
 
 
-Building an AWS EC2 to run the web server
------------------------------------------
+Building an AWS EC2 as a base for Docker apps
+---------------------------------------------
 
 * Documentation for building EC2 instance to run the web server
 	* launch an ec2 instance from the UI
@@ -81,7 +81,7 @@ Building an AWS EC2 to run the web server
 TO-DO Items
 -----------
 
-* cloudformation to send new cattle to the heard
+* cloudformation to launch base EC2 instances 
 * setup Jenkins
     * dockerized Jenkins master
 	* Jenkins Slave 
