@@ -66,7 +66,16 @@ Building an AWS EC2 to run the web server
 -----------------------------------------
 
 * Documentation for building EC2 instance to run the web server
+	* launch an ec2 instance from the UI
+		* Ubuntu Server 16.04 LTS (HVM), SSD Volume Type - ami-7c803d1c
+		* add the http Security Group
+		* select or create a ssh key
+		* will need to ssh in to ec2 and install python
+			* `apt install  python-minimal`
     * TO-DO
+	
+	
+
 
 TO-DO Items
 -----------
