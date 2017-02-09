@@ -27,7 +27,7 @@ Stelligent Mini-Prjenct Requirements
        words: “Automation for the People” . There should be a single command that launches
        this environment.
 
-    2. Commit all code to a public version­control repository of your choice (e.g. Github) and
+    2. Commit all code to a public version control repository of your choice (e.g. Github) and
        provide usage instructions.
 
     EXTRA: Write automated infrastructure tests to verify the environment works as expected
