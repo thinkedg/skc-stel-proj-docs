@@ -6,6 +6,7 @@
     - [Ansible will be requirements on your development system](#ansible-will-be-requirements-on-your-development-system)
     - [Building and running the web server](#building-and-running-the-web-server)
     - [Building an AWS EC2 to run the web server](#building-an-aws-ec2-to-run-the-web-server)
+    - [TO-DO Items](#to-do-items)
 
 <!-- markdown-toc end -->
 
@@ -66,3 +67,14 @@ Building an AWS EC2 to run the web server
 
 * Documentation for building EC2 instance to run the web server
     * TO-DO
+
+TO-DO Items
+-----------
+
+* cloudformation to send new cattle to the heard
+* setup Jenkins
+    * dockerized Jenkins master
+	* Jenkins Slave 
+	* CI test
+	* CD to staging server
+	
